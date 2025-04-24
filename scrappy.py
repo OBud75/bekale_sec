@@ -4,6 +4,7 @@ import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 
 # URL du sitemap
+# A quoi sert ce commentaire ?
 sitemap_url = "https://readi.fi/sitemap.xml"
 
 # Connexion à la base SQLite
